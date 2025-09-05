@@ -15,7 +15,7 @@ Chi-square test (done in SPSS) to identify the most affected age group
 Model evaluation using accuracy, confusion matrix, and ROC curve
 
 🧪 Dataset:
-The dataset was sourced from [Kaggle / Clinical Dataset]
+The dataset was sourced from Kaggle. 
 
 Includes clinical, hormonal, and demographic features of women
 
